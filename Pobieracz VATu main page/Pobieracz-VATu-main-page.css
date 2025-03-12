@@ -1,0 +1,20 @@
+body {
+    background-image: url("zdjecia/tlo-glowne.png");
+  background-size: cover;
+  background-position: top-center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 8%;
+}
+.box-body {
+  margin: 30px;
+}
+a:hover {
+  color: red;
+}
